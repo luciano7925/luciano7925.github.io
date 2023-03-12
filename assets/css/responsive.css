@@ -47,12 +47,7 @@
         height: 100%;
     }
 
-    /*::::::::::::::::::::::::::::::::::::
-       Frequently asked questions
-    ::::::::::::::::::::::::::::::::::::*/
-    .faq-content {
-        margin-top: 15px;
-    }
+    
     /*::::::::::::::::::::::::::::::::::::
        Call to Action Area
     ::::::::::::::::::::::::::::::::::::*/
@@ -126,15 +121,7 @@
     .featured-icon {
         font-size: 40px;
     }
-    /*::::::::::::::::::::::::::::::::::::
-       Portfolio Section
-    ::::::::::::::::::::::::::::::::::::*/
-    .work-list ul li {
-        margin-bottom: 5px;
-    }
-    .portfolio-hover h4 {
-        font-size: 18px;
-    }
+    
 
     /*::::::::::::::::::::::::::::::::::::
        About Area
@@ -153,7 +140,7 @@
        Service Section
     ::::::::::::::::::::::::::::::::::::*/
     .service-area::before {
-        height: 100%;
+        height: 150%;
 
     }
 
